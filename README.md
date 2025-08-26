@@ -8,7 +8,7 @@ I am **Sweet Flowers** and this is my website 🌸
 
 ## 📷 Bộ sưu tập ảnh
 ![Ảnh 1](images/photo1.jpg)
-![Ảnh 2](images/photo2.jpg)
+<!-- ![Ảnh 2](images/photo2.jpg) -->
 
 ## 🔗 Liên hệ
 - Email: [sweetflowers@example.com](mailto:sweetflowers@example.com)
